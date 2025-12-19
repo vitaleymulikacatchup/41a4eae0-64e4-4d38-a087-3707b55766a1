@@ -70,7 +70,7 @@ export default function LandingPage() {
             },
             {
               id: "carousel-4",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766139801430-em8l2wiy.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766160718211-lb0rnlzz.jpg",
               imageAlt: "Strong espresso"
             },
             {
@@ -118,7 +118,7 @@ export default function LandingPage() {
               id: "latte",
               name: "Silky Latte",
               price: "$5.00",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766139804183-zg73m9ni.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766160718839-9ynigqjm.jpg",
               imageAlt: "Smooth espresso with steamed milk",
               initialQuantity: 1
             },
@@ -126,7 +126,7 @@ export default function LandingPage() {
               id: "americano",
               name: "Americano",
               price: "$4.00",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766139805072-powcc1k6.jpg",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/gallery/uploaded-1766160719358-vhelxy3o.jpg",
               imageAlt: "Bold espresso with hot water",
               initialQuantity: 1
             }
